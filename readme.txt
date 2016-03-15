@@ -1,6 +1,6 @@
-�ڸ�Ŀ¼�½������ļ�������mic ����Ŀ¼�����ļ���ѹ��mic�ļ����� �ڸ�Ŀ¼�½���index.php ��д��������
+在根目录下建立新文件夹命名mic(这个随便取) 将本目录所有文件解压到mic文件夹下 在根目录下建立index.php 编写以下内容
 <?php
-	require_once 'mic/mic.php';
+	require_once 'mic/zed.php';
 ?>
 
-���ʸ����� ����ʾ��ҳ�� ����Ŀ�����ɹ�
+访问该域名 出现示例页面 即项目建立成功
